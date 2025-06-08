@@ -1,5 +1,5 @@
 <?php
-
+//Sản lý sản phẩm admin
 include '../components/connect.php';
 
 session_start();
